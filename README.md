@@ -1,5 +1,6 @@
 # Test Description:
 
+![image alt](https://github.com/Mehul1729/Damped-Harmonic-Oscillation-PINN/blob/158536943bd5f6885c86d6193ab77d1239eca636/phy_pinn.gif)
 
 In this repository I applied a simple PINN (Physics Informed Neural Network) for the problem of Damped Harmoic Oscillator with a Damping ratio varying in the range (0.1, 0.4).
 I've used Pytorch for the implementation. 
